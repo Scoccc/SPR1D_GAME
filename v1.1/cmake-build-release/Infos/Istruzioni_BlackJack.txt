@@ -1,0 +1,19 @@
+Il gioco si avvale di un singolo mazzo di carte, composto da 52 carte
+distribuite in quattro semi (cuori ♥, quadri ♦, picche ♠, fiori ♣) e,
+ogni seme possiede le seguenti carte: 1 (asso), 2, 3, 4, 5, 6, 7, 8, 9, 10, fante (J), regina(Q), re (K).
+Il valore delle carte è quello nominale presente sulla carta, tranne l’asso, che può valere 1 o 11,
+e J, Q, e K che valgono 10 punti ciascuna.
+I semi non hanno alcuna influenza, o valore particolare.
+I 2 giocatori si sfidano uno contro l’altro, con l’obiettivo di avere in mano delle carte la cui somma
+sia il più possibile vicina a 21, ma senza superarlo.
+Il gioco si svolge mediante le seguenti fasi: per ogni giocatore:
+  1) entrambi i giocatori ricevono due carte;
+  2) in base alla somma delle carte ricevute, a turno, i giocatori possono decidere se chiedere un’altra
+     carta o fermarsi, accontentandosi del punteggio ottenuto (questa fase si ripete finché il giocatore
+     non decide di fermarsi, oppure la somma delle sue carte è > 21. In quest’ultimo caso, ha già perso).
+     Questa fase si ripete finché uno dei due giocatori non perde, oppure entrambi si sono fermati;
+  3) il gioco termina se uno dei due giocatori ha perso perché ha superato 21 oppure, se entrambi si
+     sono fermati, si confrontano le somme ottenute.
+     Chi ha la somma maggiore, vince.
+  4) In caso di pareggio, si ripete la partita riconsiderando l’intero mazzo, finché non si ottiene
+     un vincitore.

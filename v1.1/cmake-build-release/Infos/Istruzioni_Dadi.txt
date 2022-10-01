@@ -1,0 +1,3 @@
+I due giocatori hanno in mano 2 dadi. A turno, i giocatori tirano i dadi.
+Il primo giocatore che fa un tiro la cui somma è minore del tiro precedente, perde.
+Il giocatore che inizia a tirare è scelto a caso.

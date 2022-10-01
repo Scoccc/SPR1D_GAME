@@ -1,0 +1,43 @@
+Si consiglia vivamente l'esecuzione del gioco su un terminale esterno da quello di Clion!
+
+INTRODUZIONE ALLO SPR1D GAME
+Lo SPR1D GAME coinvolge un numero di N >= 16 giocatori che concorrono per superare il corso diProgrammazione 1.
+Solo il vincitore dello SPR1D GAME riuscirà a passare il corso, tutti gli altri verranno eliminati man-mano che il gioco prosegue.
+Per vincere servirà talento ma soprattutto tanta fortuna.
+Per poter vincere il gioco, il giocatore dovrà vincere una serie di sotto-giochi (fasi del gioco).
+Basta perderne anche solo uno per essere eliminati.
+Una volta vinta una fase del gioco, si potrà passare alla fase successiva.
+L’ultima fase vedrà contrapporsi gli ultimi 2 giocatori rimasti in gara, e solo uno di loro vincerà e supererà il corso di Programmazione 1.
+Ogni giocatore avrà un numero identificativo compreso da 0 e N-1, e può essere controllato dall’utente oppure dalla CPU.
+Nel caso in cui il giocatore sia controllato dall’utente, al giocatore sarà associato anche un nome.
+
+IMPORTARE SALVATAGGI
+Se si vuole importare un salvataggio basta inserire il salvataggio in formato .bin nella cartella Saves, e quando verrà chiesto il nome o il numero del salvataggio basta inserire il nome del salvataggio aggiunto manualmente (con o senza estensione è indifferente), a quel punto il salvataggio verrà aggiunto alla lista di salvataggi con un propio ID.
+
+INSERIRE 'SI' O 'NO'
+Quando si richiede d' inserire 'Si' o 'No' basta inserire le iniziali 's' o 'y' per confermare oppure 'n' per negare (vanno bene sia maiuscole che minuscole).
+
+SCELTA COLORE
+I colori vengono associati in base all'ID, quindi si può scegliere il colore da associare al proprio giocatore in base alla seguente tabella:
+ ID | COLORE
+  0 | Rosso
+  1 | Verde
+  2 | Giallo
+  3 | Blu
+  4 | Magenta
+  5 | Ciano
+  6 | Rosso chiaro
+  7 | Verde chiaro
+  8 | Giallo chiaro
+  9 | Blu chiaro
+ 10 | Magenta chiaro
+ 11 | Ciano chiaro
+per ID maggiori il colore corrisponderà all' ID % 12
+
+CARICAMENTO SALVATAGGIO
+Quando si carica una partita è possibile scegliere il file da caricare inserendone il numero associato o il nome per esteso, con o senza estensione.
+Una volta inserito il salvataggio scelto se la partita non è in corso si visualizzeranno tutti i profili utente contenuti all'interno del file, dando la possibilità di aggiungerne altri.
+Se invece la partita è in corso verranno visualizzati solo i Profili Utente che hanno partecipato almeno alla scrematuara, e avranno il nome e ID in grigio se sono stati eliminati, oppure colorati se sono ancora in gioco.
+
+EASTER EGGS
+Nel gioco solo presenti vari easter eggs nascosti, divertiti a cercarli!

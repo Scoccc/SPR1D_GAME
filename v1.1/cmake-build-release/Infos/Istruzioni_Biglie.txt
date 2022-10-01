@@ -1,0 +1,11 @@
+Ogni giocatore ha in mano un numero di biglie pari a 10.
+A ogni turno, entrambi i giocatori decidono quante biglie scommettere
+(tra quelle che hanno a disposizione), e il turno consiste in uno dei
+due giocatori che prova a indovinare se il giocatore avversario ha
+scommesso un numero di biglie pari o dispari.
+Se il giocatore indovina, riceverà dall’avversario un numero di biglie
+pari a quelle scommesse dall’avversario.
+Se non indovina, sarà l’avversario a ricevere un numero di biglie pari
+al numero scommesso dal giocatore.
+Il gioco termina quando uno dei due giocatori rimane con zero biglie
+in mano(quest’ultimo perde e viene eliminato).

@@ -1,0 +1,12 @@
+Il gioco consiste nell’attraversamento di un ponte composto da tre coppie di vetri
+consecutive, in cui uno dei due vetri della coppia è fragile, e l’altro no.
+I 4 giocatori sono inizialmente disposti in modo casuale, dopodiché il primo
+giocatore dovrà iniziare ad attraversare il ponte, e scegliere su quale tra i
+vetri della prima coppia passare.
+Se sbaglia, viene eliminato.
+Se indovina, può cercare d' indovinare il vetro della successiva coppia.
+Il giocatore dietro di lui può usare l’informazione data dai tentativi del
+giocatore precedente (fin dove è riuscito ad arrivare).
+Vince il primo giocatore che riesce ad attraversare il ponte.
+Se i primi tre giocatori vengono tutti e tre eliminati, il quarto vince
+automaticamente (anche se non ha attraversato il ponte).

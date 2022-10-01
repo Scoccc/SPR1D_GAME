@@ -1,0 +1,13 @@
+I quattro giocatori dovranno cercare d' indovinare una parola (o frase) selezionata
+a caso da un dizionario di parole.
+All’inizio, sarà noto solamente da quante lettere è composta la parola
+(verrà visualizzato un numero di caratteri “_” pari al numero di lettere della parola).
+A turno, i giocatori inseriranno una lettera che pensano possa essere presente, e il
+gioco verificherà se tale lettera è presente nella parola.
+Se è presente, viene visualizzata la parola e i caratteri “_” saranno sostituiti con
+la lettera inserita, e il turno passa al giocatore successivo.
+Se la lettera non è presente, il giocatore ha fallito e il turno passerà comunque al
+giocatore successivo.
+Ogni giocatore ha un numero massimo di fallimenti pari a quattro, dopodiché verrà eliminato.
+Vince il giocatore che completa la parola (indovina l’ultima lettera che rivelala
+parola finale), oppure l’ultimo superstite.

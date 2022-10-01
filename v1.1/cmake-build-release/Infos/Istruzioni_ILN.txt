@@ -1,0 +1,4 @@
+Il gioco consiste nel tentare d' indovinare un numero generato casualmente tra 0 e 999 (valori inclusi).
+Inizia il giocatore con ID più basso al quale verrà chiesto di fare il primo tentativo.
+Nel caso in cui il numero da indovinare sià maggiore o minore del tentativo effettuato verrà riportato su terminale.
+Le CPU imparano dai tentativi precedenti, quindi giocheranno in maniera sensata.

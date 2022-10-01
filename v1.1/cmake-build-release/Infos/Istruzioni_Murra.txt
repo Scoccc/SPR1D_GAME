@@ -1,0 +1,7 @@
+I due giocatori generano due numeri:
+● un numero compreso tra 1 e 5, estremi inclusi, rappresentante il numero
+  scelto;
+● un numero compreso tra 2 e 10, estremi inclusi, rappresentante la somma
+  dei due numeri scelti dai giocatori.
+  Vince il giocatore che riesce a indovinare la somma.
+  In caso di parità, si procede a oltranza finché non c’è un solo vincitore.

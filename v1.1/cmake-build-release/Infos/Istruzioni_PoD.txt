@@ -1,0 +1,3 @@
+I due giocatori scelgono se essere pari o dispari.
+Dopodiché, ognuno decide quante dita della mano mostrare: da 0 a 5.
+La somma dei numeri dei due giocatori decreterà il vincitore, in base al fatto se essa sia pari o dispari.

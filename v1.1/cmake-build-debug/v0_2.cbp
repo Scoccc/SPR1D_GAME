@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="v0_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="v0_2">
+				<Option output="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/v0_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 v0_2"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="v0_2/fast">
+				<Option output="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/v0_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 v0_2/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/BlackJack/BlackJack.c">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/BlackJack/BlackJack.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/Dadi/Dadi.c">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/Dadi/Dadi.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/Morra_cinese/MorraCinese.c">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/Morra_cinese/MorraCinese.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/Pari_o_dispari/PariODispari.c">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/Pari_o_dispari/PariODispari.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/Tris/Tris.c">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/Tris/Tris.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Giochi/giochi.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Michele Library/mchlib.c">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/Michele Library/mchlib.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/SPR1DGAME Library/EnumStruct.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/SPR1DGAME Library/spr1dgame.c">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/Librerie/SPR1DGAME Library/spr1dgame.h">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/main.c">
+			<Option target="v0_2"/>
+		</Unit>
+		<Unit filename="C:/Users/miche/CLionProjects/SPR1D_GAME/v0.5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

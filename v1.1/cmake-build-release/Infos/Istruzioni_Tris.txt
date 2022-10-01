@@ -1,0 +1,9 @@
+I due giocatori dovranno mettere, a turno, un proprio segnaposto
+in una cella non ancora occupata di una matrice 3x3.
+Vince chi ottiene per primo una riga, una colonna o una diagonale
+interamente occupata dal proprio segnaposto.
+In caso di pareggio, si inizia una nuova partita finché non ci sarà
+un vincitore.
+Il primo giocatore a iniziare sarà quello con numero identificativo
+minore;
+nelle eventuali partite successive si inizierà a turno.

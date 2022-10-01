@@ -1,0 +1,6 @@
+I due giocatori possono scegliere uno tra i seguenti simboli: carta, forbici, o sasso.
+Si confrontano, quindi, i simboli scelti dai giocatori e si dichiara il vincitore, in base alle seguenti regole:
+ ● carta contro forbici => vince forbici
+ ● carta contro sasso => vince carta
+ ● forbici contro sasso => vince sasso
+ ● se i due simboli sono uguali non vince nessuno e si ripete il gioco finché non c’è un vincitore.
